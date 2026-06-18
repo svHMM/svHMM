@@ -2,8 +2,8 @@ Package: svHMM
 Type: Package
 Title: Fast Approximate Bayesian Inference for Stochastic Volatility Models Using Hidden Markov Models
 Version: 0.1.0
-Author: Bruno E. Holtz <brunoeholtz@gmail.com>
-Maintainer: Bruno E. Holtz <brunoeholtz@gmail.com>
+Author: Anonymous Author <anonymous@example.com>
+Maintainer: Anonymous Author <anonymous@example.com>
 Description: Implements fast approximate Bayesian inference methods for
     stochastic volatility in mean models with heavy-tailed distributions,
     using Hidden Markov Model approximations. The package relies on efficient
