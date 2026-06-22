@@ -12,7 +12,7 @@ The package implements the methodology proposed in:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 You can install the development version of `svHMM` directly from GitHub using the `remotes` package:
 
