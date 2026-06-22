@@ -22,7 +22,7 @@ if (!requireNamespace("remotes", quietly = TRUE)) {
   install.packages("remotes")
 }
 
-# Install svHMM (use username/repo format)
+# Install svHMM
 remotes::install_github("svHMM/svHMM")
 
 ```
