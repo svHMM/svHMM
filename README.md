@@ -76,3 +76,12 @@ lv <- logvol(fit, plot = TRUE)
 lines(exp(0.5 * log.ret$h), col = 'red', lwd = 2)
 legend("topright", legend = c("Estimated Volatility", "True Volatility"), 
        col = c("black", "red"), lwd = c(1, 2), bne = "n")
+
+```
+
+## Citation
+
+If you use svHMM in your research, please cite the framework paper:
+
+```bibtex
+@article{...}
